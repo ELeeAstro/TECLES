@@ -1,2 +1,2 @@
-# TECS
-Tracer based Equilibrium Clouds for Simulations (TECS)
+# TECLS
+Tracer based Equilibrium CLouds for Simulations (TECS)
