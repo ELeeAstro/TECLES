@@ -1,2 +1,2 @@
-# TECLS
-Tracer based Equilibrium CLouds for Simulations (TECS)
+# TECLES
+Tracer based Equilibrium CLouds for Exoplanet Simulation (TECLES)
